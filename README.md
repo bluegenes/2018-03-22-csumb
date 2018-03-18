@@ -1,6 +1,12 @@
-# workshop-template
+# Data Carpentry Genomics at CSUMB
 
-This repository is [Software Carpentry][swc-site] and [Data Carpentry][dc-site]'s
+This workshop will be held at CSUMB on March 22-23, 2018.
+
+
+
+============
+
+This repository was created with [Software Carpentry][swc-site] and [Data Carpentry][dc-site]'s
 template for creating websites for workshops.
 
 1.  Please *do not fork this repository directly on GitHub.*
