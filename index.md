@@ -1,4 +1,4 @@
---
+---
 layout: workshop      # DON'T CHANGE THIS.
 carpentry: "dc"    # what kind of Carpentry (must be either "lc" or "dc" or "swc")
 venue: "CSUMB"        # brief name of host site without address (e.g., "Euphoric State University")
