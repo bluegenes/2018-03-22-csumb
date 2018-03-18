@@ -383,6 +383,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   </div>
 </div> {% comment %} End of 'shell' section. {% endcomment %}
 
+{% comment %}
 <div id="git"> {% comment %} Start of 'Git' section. GitHub browser compatability
            is given at https://help.github.com/articles/supported-browsers/{% endcomment %}
   <h3>Git</h3>
@@ -438,7 +439,9 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
     </div>
   </div>
 </div> {% comment %} End of 'Git' section. {% endcomment %}
+{% endcomment %}
 
+{% comment %}
 <div id="editor"> {% comment %} Start of 'editor' section. {% endcomment %}
   <h3>Text Editor</h3>
 
@@ -510,6 +513,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
     </div>
   </div>
 </div> {% comment %} End of 'editor' section. {% endcomment %}
+{% endcomment %}
 
 {% comment %}
 <div id="python"> {% comment %} Start of 'Python' section. Remove the third paragraph if
@@ -606,6 +610,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 </div> {% comment %} End of 'Python' section. {% endcomment %}
 {% endcomment %}
 
+{% comment %}
 <div id="r"> {% comment %} Start of 'R' section. {% endcomment %}
   <h3>R</h3>
 
@@ -656,6 +661,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
     </div>
   </div>
 </div> {% comment %} End of 'R' section. {% endcomment %}
+{% endcomment %}
 
 {% comment %}
 <div id="sql"> {% comment %} Start of 'SQLite' section. {% endcomment %}
