@@ -317,7 +317,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
     <div class="col-md-4">
       <h4 id="shell-windows">Windows</h4>
       <ol>
-        <li>Download and install <a href="http://www.putty.org/">PuTTY</a> for Windows .</li>
+        <li>Download and install <a href="http://www.putty.org/">PuTTY</a> for Windows. </li>
       </ol>
 
 {% comment %}
