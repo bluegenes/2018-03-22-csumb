@@ -279,7 +279,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 
 <p>
 
-  For this Data Carpentry workshop, we will be working with cloud computers where we will install all relevant software. The two things you will need are 1. an up-to-date web browser, and 2. a way of accessing the bash shell. If you are a windows user, please follow the instructions below. Mac and Linux users should be okay as-is, but please double-check using the instructions below.
+  For this Data Carpentry workshop, we will be working with cloud computers where we will install all relevant software. On your own computer, you will need an up-to-date web browser, and a way of accessing the bash shell. If you are a Windows user, please follow the instructions below. Mac and Linux users should be okay as-is, but please double-check using the instructions below.
 
 {% comment %} 
   To participate in a
